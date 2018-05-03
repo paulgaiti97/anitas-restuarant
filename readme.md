@@ -4,7 +4,7 @@
 ## Description
 anitas restuarant -this is a webpage for anitas restuarant
 ## Setup
-* This landing portfolio can be accessed by following this link 
+* This landing portfolio can be accessed by following this link :https://paulgaiti97.github.io/anitas-restuarant/
 
 on accessing the webpage , navigation has been eased through a navigation bar that will guide you through all sections
 
