@@ -1,0 +1,279 @@
+body{
+  padding: 0;
+  margin: 0;
+  font-family:fantasy;
+  font-size: 20px;
+  color: white;
+  line-height: 1.7;
+}
+
+
+.jumbotron {
+  background-image: url("../images/landing.jpg");
+  height:500px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 0;
+  margin-bottom: -1px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.jumbotron img {
+  border-bottom: 20px;
+
+}
+.jumbotron p{
+  border-top: 50px;
+}
+.offers{
+  padding: 0;
+  text-align: center;
+}
+.breakfast, .lunch, .dinner {
+  text-align: center;
+}
+#menu{
+  border:1px black;
+}
+#menu .row1{
+  height:105px;
+  display: block;
+  background-color: #ccc;
+}
+.mySlides{
+ align-items:
+}
+
+.w3-button{
+   background-color: white;
+   color:#f15a29;
+   border:0;
+
+}
+
+#menu .row2{
+  height:105px;
+  display: block;
+  background-color:#f15a29;
+}
+
+
+/* #menu p{
+  margin: 0;
+  padding: 0;
+
+  justify-content: center;
+  align-items: center;
+} */
+#menu .row{
+  width:100%;
+  height: 210px;
+
+}
+#img1{
+  margin-top: 150px;
+  margin-left: 150px;
+  float: right;
+
+}
+#img2{
+  margin-bottom: 150px;
+  margin-right: 10px;
+  display: inline-block;
+  padding: 0:
+}
+.fstfoodtxt{
+  margin-top: 150px;
+}
+.drnkstxt{
+  margin-bottom: 150px:
+}
+
+#menu .breakfast{
+  width:25%;
+  height: 210px;
+  background-image:url("../images/breakfast.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+#email2{
+  padding-top: 30px;
+}
+
+.btn1{
+  border: 1px #f15a29 ;
+  background-color:#f15a29;
+  color:white;
+  border-radius: 5%;
+  border-left: 100px;
+}
+.email{
+  width: 400px;
+  border-radius: 5%;
+  border: 1px #f15a29 ;
+}
+#menu .lunch{
+  width:25%;
+  height: 210px;
+  background-image:url("../images/lunch.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+#menu .dinner{
+  width:25%;
+  height: 210px;
+  background-image:url("../images/dinner.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+#subscribe{
+  height:300px;
+  background-image:url("../images/subscribe.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin: -15px;
+  text-align: center;
+  align-content: center;
+}
+
+#fastfood, #drinks {
+
+  justify-content: center;
+  align-items: center;
+}
+
+#fastfood {
+     margin-top:100px ;
+     color: black;
+     align-items: center;
+}
+
+#drinks{
+    margin-top: 100px;
+    color: black;
+    margin-bottom:
+  }
+
+#img2 #img1{
+  padding: 10px;
+}
+#drinks .drnkstxt{
+  float:left;
+  text-align: right;
+}
+
+#fastfood img-thumbnail{
+  margin-left: 100px;
+}
+#slidingmenu {
+  background-image: url("../images/foodsBg.jpg");
+  background-position: center;
+  background-size: cover;
+  width:100%;
+  height: 600px;
+}
+#slidingmenu{
+height:600px;
+text-align: center;
+ justify-content: center;
+
+}
+#slidingmenu2{
+ background-color: white;
+ color:black;
+ width:75%;
+ height: 400px;
+ margin-left: 120px;
+ margin-top: 100px;
+
+}
+
+#displaycont{
+  margin-top: 100px;
+}
+#fstfood2{
+  background-color: gray;
+  border: black;
+}
+#content{
+  border: 10px red;
+  padding-top: 150px;
+}
+#customers{
+  border-top: 30px;
+  color: black;
+  height: 500px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  overflow: scroll;
+}
+
+#hppycustomers{
+ text-align: center;
+}
+.btngallery{
+  margin-top: 20px;
+  border: black;
+  color:#f15a29 ;
+  text-align: center;
+}
+
+#customers{
+height: 500px;
+}
+
+#row3 h1{
+  color: #f15a29;
+}
+
+#row3{
+  border: 1px gray solid;
+  margin: 40px;
+  padding: 20px;
+
+
+}
+
+
+
+
+#text7{
+padding-top: 40px;
+
+}
+
+#text8{
+  padding-top: 90px;
+}
+
+#footer{
+  background-color:#f15a29;
+  height: 300px ;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+  line-height: 2;
+  width: 100%;
+}
+#footer .footer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+#footer .footer1 img{
+  margin-right: 20px;
+}
+ #footer .copyrights p {
+   margin-top: 50px;
+ }
